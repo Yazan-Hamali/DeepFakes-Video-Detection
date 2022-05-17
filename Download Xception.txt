@@ -1,0 +1,2 @@
+Download xception-b5690688.pth from
+https://data.lip6.fr/cadene/pretrainedmodels/
